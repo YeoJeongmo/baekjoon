@@ -1,6 +1,6 @@
 package beakjoon;
 
-public class Main012{
+public class Main011 {
     public static void main(String[] args){
         System.out.println("|\\_/|");
         System.out.println("|q p|   /}");
